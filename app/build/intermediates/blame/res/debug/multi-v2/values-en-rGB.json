@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\uuko\\Desktop\\b\\TVDemoApp\\TVDemoApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rGB\\values-en-rGB.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\uuko\\.gradle\\caches\\transforms-2\\files-2.1\\2b497ac495e93f619776beac0fd665bf\\appcompat-v7-22.1.1\\res\\values-en-rGB\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "295,399,499,607,695,795,910,1013,1117,1216,1321,1424,1528",
+                        "endColumns": "103,99,107,87,99,114,102,103,98,104,102,103,118",
+                        "endOffsets": "394,494,602,690,790,905,1008,1112,1211,1316,1419,1523,1642"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,209,309,417,505,605,720,823,927,1026,1131,1234,1338",
+                        "endColumns": "103,99,107,87,99,114,102,103,98,104,102,103,118",
+                        "endOffsets": "204,304,412,500,600,715,818,922,1021,1126,1229,1333,1452"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\uuko\\.gradle\\caches\\transforms-2\\files-2.1\\0aab69ba787163eae9a89c5e5ce82869\\leanback-v17-22.1.1\\res\\values-en-rGB\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "345,429,529,664,815",
+                        "endColumns": "83,99,134,150,89",
+                        "endOffsets": "424,524,659,810,900"
+                    },
+                    "to": {
+                        "startLines": "15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "1457,1541,1641,1776,1927",
+                        "endColumns": "83,99,134,150,89",
+                        "endOffsets": "1536,1636,1771,1922,2012"
+                    }
+                }
+            ]
+        }
+    ]
+}

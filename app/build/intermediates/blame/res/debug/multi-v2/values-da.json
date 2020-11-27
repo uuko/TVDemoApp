@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\uuko\\Desktop\\b\\TVDemoApp\\TVDemoApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-da\\values-da.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\uuko\\.gradle\\caches\\transforms-2\\files-2.1\\0aab69ba787163eae9a89c5e5ce82869\\leanback-v17-22.1.1\\res\\values-da\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "341,422,522,660,817",
+                        "endColumns": "80,99,137,156,88",
+                        "endOffsets": "417,517,655,812,901"
+                    },
+                    "to": {
+                        "startLines": "15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "1463,1544,1644,1782,1939",
+                        "endColumns": "80,99,137,156,88",
+                        "endOffsets": "1539,1639,1777,1934,2023"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\uuko\\.gradle\\caches\\transforms-2\\files-2.1\\2b497ac495e93f619776beac0fd665bf\\appcompat-v7-22.1.1\\res\\values-da\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "291,394,493,605,688,788,901,1010,1118,1214,1328,1432,1533",
+                        "endColumns": "102,98,111,82,99,112,108,107,95,113,103,100,115",
+                        "endOffsets": "389,488,600,683,783,896,1005,1113,1209,1323,1427,1528,1644"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,208,307,419,502,602,715,824,932,1028,1142,1246,1347",
+                        "endColumns": "102,98,111,82,99,112,108,107,95,113,103,100,115",
+                        "endOffsets": "203,302,414,497,597,710,819,927,1023,1137,1241,1342,1458"
+                    }
+                }
+            ]
+        }
+    ]
+}

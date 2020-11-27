@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\uuko\\Desktop\\b\\TVDemoApp\\TVDemoApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-th\\values-th.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\uuko\\.gradle\\caches\\transforms-2\\files-2.1\\2b497ac495e93f619776beac0fd665bf\\appcompat-v7-22.1.1\\res\\values-th\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "291,396,494,602,691,793,903,1011,1115,1213,1321,1426,1527",
+                        "endColumns": "104,97,107,88,101,109,107,103,97,107,104,100,115",
+                        "endOffsets": "391,489,597,686,788,898,1006,1110,1208,1316,1421,1522,1638"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,210,308,416,505,607,717,825,929,1027,1135,1240,1341",
+                        "endColumns": "104,97,107,88,101,109,107,103,97,107,104,100,115",
+                        "endOffsets": "205,303,411,500,602,712,820,924,1022,1130,1235,1336,1452"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\uuko\\.gradle\\caches\\transforms-2\\files-2.1\\0aab69ba787163eae9a89c5e5ce82869\\leanback-v17-22.1.1\\res\\values-th\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "341,424,522,656,805",
+                        "endColumns": "82,97,133,148,93",
+                        "endOffsets": "419,517,651,800,894"
+                    },
+                    "to": {
+                        "startLines": "15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "1457,1540,1638,1772,1921",
+                        "endColumns": "82,97,133,148,93",
+                        "endOffsets": "1535,1633,1767,1916,2010"
+                    }
+                }
+            ]
+        }
+    ]
+}
